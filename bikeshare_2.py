@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 
-# This is a comment for refactoring branch
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -66,7 +66,9 @@ def load_data(city, month, day):
     df['day_of_week'] = df['Start Time'].dt.weekday_name
     df['hour'] = df['Start Time'].dt.hour
     
-
+    """
+    THIS IS A REFACTORING COMMIT
+    """
     # filter by month if applicable
     if month != 'all':
         # use the index of the months list to get the corresponding int
