@@ -15,5 +15,8 @@ Washington.csv
 new-york-city.csv
 
 ### Credits
-American database for bicycles
+American database for bicycle
+
+#### Changes
+These additional changes made to documentation branch
 
