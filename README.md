@@ -12,6 +12,7 @@ A project to for the guide aspirants to visit the senior high schools.
 ### Files used
 chicago.csv
 washington.csv
+new-york-city.csv
 
 ### Credits
 Roseline Chirah Boadi, a great student entrepreneur is my great resource for this project
