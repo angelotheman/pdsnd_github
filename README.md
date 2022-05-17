@@ -4,7 +4,7 @@
 21 Jan 2001
 
 ### Project Title
-AYM PROJECT BETA A
+AYM PROJECT BETA B
 
 ### Description
 A project to for the guide aspirants to visit the senior high schools. 
