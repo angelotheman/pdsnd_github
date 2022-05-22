@@ -17,3 +17,13 @@ new-york-city.csv
 ### Credits
 Roseline Chirah Boadi, a great student entrepreneur is my great resource for this project
 
+#### Footer
+This is just a reference to be made by the author @angelotheman. You can copy the code and use it for all your projects
+
+##### Social media
+Follow me on social media
+LinkedIn => @angelotheman
+Twitter => @_angelotheman
+Facebook => @themanangelo
+
+
