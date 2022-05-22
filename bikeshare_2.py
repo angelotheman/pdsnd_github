@@ -1,7 +1,11 @@
 import time
 import pandas as pd
 
+<<<<<<< HEAD
 
+=======
+# Comments for README.md. These have been interchanged so take note
+>>>>>>> documentation
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
